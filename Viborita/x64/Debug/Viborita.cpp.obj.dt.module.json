@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Viborita\\x64\\Debug\\Viborita.obj",
+            "outputs": [
+                "Viborita\\x64\\Debug\\Viborita.cpp.obj.dt.module.json",
+                "Viborita\\x64\\Debug\\Viborita.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

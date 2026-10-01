@@ -1,0 +1,47 @@
+# Visual Studio
+.vs/
+*.VC.db
+*.VC.VC.opendb
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+build/
+bin/
+obj/
+Binaries/
+
+# Compiled object files
+*.obj
+*.o
+*.lo
+
+# Libraries
+*.lib
+*.a
+*.la
+
+# Executables
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Debug
+*.pdb
+*.ilk
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Testing/
+
+# VS Code
+.vscode/
+
+# Others
+*.log
+*.tmp
